@@ -3,7 +3,7 @@ Contributors: jayasrinagrale, kranthitech, bharathsk7
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RRK6C4QZSLBCG
 Tags: gdpr popup, gdpr exit popup, mailchimp popup, mailchimp subscription form, mailchimp subscription popup, exit popups, popup plugin, popup before user leaves, action button, fab buttons, exit overlay popup, list building, popup, popup with image, subscription form, mailchimp, newsletter, signup form, popup editor, popup on back button, popup on click, popup on link click, popup on scroll, aweber subscription popup, aweber exit popup, mailchimp exit popup
 Requires at least: 3.0.1
-Tested up to: 6.3
+Tested up to: 6.7
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
